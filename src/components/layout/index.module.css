@@ -1,0 +1,12 @@
+.content {
+  padding: 1.5rem;
+}
+
+.sider {
+  overflow: auto;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
